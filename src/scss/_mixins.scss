@@ -1,0 +1,6 @@
+@mixin font($weight, $size) {
+        font: {
+            weight: $weight;
+            size: $size;
+        }
+}
